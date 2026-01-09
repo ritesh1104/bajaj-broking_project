@@ -1,18 +1,14 @@
 trading-sdk-bajaj-broking/
 │
 ├── app/
-│   ├── __init__.py
 │   ├── main.py
 │   ├── database.py
 │   ├── models.py
 │   └── routers/
-│       ├── __init__.py
 │       ├── instruments.py
 │       ├── orders.py
 │       ├── trades.py
 │       └── portfolio.py
 │
 ├── requirements.txt
-├── README.md
-├── .gitignore
-└── run.sh
+└── README.md
